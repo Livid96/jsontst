@@ -1,4 +1,3 @@
-```javascript
 let data;
 
 fetch("data.json")
@@ -82,4 +81,3 @@ l.style.display=l.innerText.toLowerCase().includes(text)
 });
 
 });
-```
