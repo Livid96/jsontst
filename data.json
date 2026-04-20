@@ -1,49 +1,61 @@
 {
- "chapters":[
-  {
-   "title":"ICT Foundations",
-   "keywords":"ict basics introduction",
-   "lessons":[
+  "chapters": [
     {
-     "title":"ICT Overview",
-     "video":"tqJOtuOV3hw"
+      "id": "ch1",
+      "title": "ICT Foundations",
+      "keywords": "basics ict introduction",
+      "lessons": [
+        {
+          "title": "Lesson 01: Overview",
+          "video": "tqJOtuOV3hw",
+          "displayTitle": "ICT Introduction",
+          "creator": "YouTube"
+        },
+        {
+          "title": "Lesson 02: Concepts",
+          "video": "Xz26aND-LS4",
+          "displayTitle": "Global Village",
+          "creator": "YouTube"
+        }
+      ]
     },
     {
-     "title":"Global Village",
-     "video":"Xz26aND-LS4"
-    }
-   ]
-  },
-
-  {
-   "title":"Networking",
-   "keywords":"network topology data",
-   "lessons":[
-    {
-     "title":"Network Topology",
-     "video":"3QhU9jd03a0"
+      "id": "ch2",
+      "title": "Networking",
+      "keywords": "networking topology",
+      "lessons": [
+        {
+          "title": "Lesson 01: Topologies",
+          "video": "3QhU9jd03a0",
+          "displayTitle": "Network Topology",
+          "creator": "YouTube"
+        },
+        {
+          "title": "Lesson 02: Channels",
+          "video": "qz0aGYrrlhU",
+          "displayTitle": "Data Communication",
+          "creator": "YouTube"
+        }
+      ]
     },
     {
-     "title":"Data Communication",
-     "video":"qz0aGYrrlhU"
+      "id": "ch3",
+      "title": "Logic & Numbers",
+      "keywords": "binary gates number system",
+      "lessons": [
+        {
+          "title": "Lesson 01: Binary Number System",
+          "video": "5m0LxGqYd2U",
+          "displayTitle": "Binary Numbers",
+          "creator": "YouTube"
+        },
+        {
+          "title": "Lesson 02: Logic Gates",
+          "video": "Y8i9J2nFh0M",
+          "displayTitle": "Logic Gates Explained",
+          "creator": "YouTube"
+        }
+      ]
     }
-   ]
-  },
-
-  {
-   "title":"Logic and Numbers",
-   "keywords":"binary gates number system",
-   "lessons":[
-    {
-     "title":"Binary Numbers",
-     "video":"f5r9n7vLx6A"
-    },
-    {
-     "title":"Logic Gates",
-     "video":"JQBRzsPhw2w"
-    }
-   ]
-  }
-
- ]
+  ]
 }
