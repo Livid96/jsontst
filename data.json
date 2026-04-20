@@ -1,0 +1,51 @@
+```json
+{
+ "chapters":[
+  {
+   "title":"ICT Foundations",
+   "keywords":"ict basics introduction",
+   "lessons":[
+    {
+     "title":"ICT Overview",
+     "video":"tqJOtuOV3hw"
+    },
+    {
+     "title":"Global Village",
+     "video":"Xz26aND-LS4"
+    }
+   ]
+  },
+
+  {
+   "title":"Networking",
+   "keywords":"network topology data",
+   "lessons":[
+    {
+     "title":"Network Topology",
+     "video":"3QhU9jd03a0"
+    },
+    {
+     "title":"Data Communication",
+     "video":"qz0aGYrrlhU"
+    }
+   ]
+  },
+
+  {
+   "title":"Logic and Numbers",
+   "keywords":"binary gates number system",
+   "lessons":[
+    {
+     "title":"Binary Numbers",
+     "video":"f5r9n7vLx6A"
+    },
+    {
+     "title":"Logic Gates",
+     "video":"JQBRzsPhw2w"
+    }
+   ]
+  }
+
+ ]
+}
+```
